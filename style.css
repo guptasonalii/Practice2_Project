@@ -1,0 +1,145 @@
+#top-nav
+{
+    background-color: #daac00;
+    padding: 0 8%;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color:rgb(255 255 255);
+    font-size: 20px;
+    padding-left: 25px;
+}
+#search-box{
+    background-color:#fcc302;
+    color: white;
+    border: 0px;
+    border-radius: 0;
+    position: relative;
+    left:47px;
+    box-shadow: 5px 10px 11px 0px #00000021;
+}
+#search-box::placeholder
+{
+    color: white;
+}
+#search-btn{
+    position: relative;
+    z-index: 99;
+    background-color:#00bec9;
+    border: 0;
+    border-radius: 0;
+    color: white;
+}
+#banner{
+    background-color: #fcc302;
+    padding-bottom: 20px;
+}
+#banner-text h1{
+    color: white;
+    font-size: 70px;
+    margin-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#banner-text p{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+#banner-img{
+    padding: 5%;
+}
+#banner-btn-1{
+    background-color: #00bec9;
+    border: 2px solid #00bec9;
+    color: white;
+
+}
+#banner-btn-2{
+    
+    border: 2px solid white;
+    color: white;
+    margin-left: 15px;
+}
+#service-text{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#service-btn{
+    color:white;
+    background-color: #fcc302;
+    border: 2px solid #daac00;
+
+}
+#service-image{
+    padding: 5%;
+}
+#counter-section{
+    background-image: url(7.png);
+    padding-top: 50px;
+    padding-bottom:70px ;
+    background-size: cover;
+    background-position: center;
+}
+#blog{
+    padding-top: 50px;
+    padding-bottom: 70px
+    
+    ;
+}
+#blog-title{
+    font-size: 50px;
+    font-weight: bolder;
+
+}
+#blog-p{
+    font-size: 20px;
+    margin-bottom: 70px;
+}
+.article-detail{
+    padding: 15px;
+    border: 1px solid rgb(185,185,185);
+    border-top: 0;
+}
+.article-date, .article-link{
+    color:#00bec9;
+}
+#footer{
+    background-color: #343434;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+#footer a{
+    color: white;
+    text-decoration: none;
+}
+#footer-form{
+margin-top:10px;
+margin-bottom: 10px;
+
+}
+#footer-search-box{
+
+    background-color: #fcc302;
+    color: white;
+    border: 0;
+    padding: 15px;
+    max-width: 250px;
+    position: relative;
+    left:10px
+}
+#footer-search-submit{
+    background-color: #00bec9;
+    color:white;
+    border:0;
+    border-radius: 0;
+    padding:15px 40px;
+    
+
+}
+.social-icon{
+    font-size: 25px;
+    padding-left: 5px4d45erct65667789;
+}
+
